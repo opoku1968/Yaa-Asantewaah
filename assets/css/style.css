@@ -1,0 +1,57 @@
+/*Asterisk wildcard slector to override default styles added by the browser*/
+*{margin: 0;}
+
+/*nice background color and remove all Default setings */
+body{
+    background-color: #5c755e;
+    font-size: 14px;
+    font: Verdana, Serif, Georgia;
+    
+}
+/* header and no width to size all seizes */
+#header{
+    background-color: blue;
+    margin: 10px;
+    border-radius: 5px;
+}
+/* navi and no width to size all seizes */
+#navi{
+    background-color: #9c9f84;
+    margin: 10px;
+    height: 35px;
+    border-radius: 4px;
+}
+
+/*no height nor width to make content decide*/
+.main{
+    background-color: #e5e4d7;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 110%;
+}
+h1{
+    font-size: 130px;
+    color: #ce282e;
+}
+p{
+    color: white;
+}
+
+.rightsidebar{
+    background-color: #e5e4d7;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 105px;
+    float: right;
+    width: 260px;
+}
+h2{font-size: 120%;
+color: darkblue;
+}
+
+
+
+
+
